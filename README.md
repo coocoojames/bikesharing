@@ -24,5 +24,6 @@
 - Most riders are subscribers
 - Peak times are morning and evening rush hours
 - Peak days are Mondays, Tuesdays, Thursdays, and Fridays<br />
-It's also noteworthy that almost all of the popular starting locations are in the Manhattan area, which has a population of 1.632 million.
+
+It's also noteworthy that almost all of the popular starting locations are in the Manhattan area, which has a population of 1.632 million.<br />
 &emsp; Now that we know what the market looks like in New York we can reference it in Des Moines, Iowa. However, with a population of only 215,000 one cannot just copy and paste the strategy. To see exactly how successful bikesharing business is in Des Moines, more data would have to be collected and analyzed in the future. These include: the popular starting and ending locations, population map of Des Moines and nearby cities, heatmap of popular riding days, bubble map of densely business populated areas, and usage by user types.
